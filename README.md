@@ -8,7 +8,8 @@ This repository contains supporting material referenced in the publication with 
 
 Files: 
 
-1.  panel.bed -- A bed file containing variants used to generate the hybrid capture panel
-2.  notebooks/panel_generation.ipynb -- A jupyter notebook to generate the panel 
-3.  notebooks/panel_evaluation.ipynb -- A jupyter notebook to assess the panel
-4.  comparison_panels/ -- Contains comparison panel variant locations and parsing scripts 
+1.  [comparison_panels/orchid_panel.bed](comparison_panels/orchid_panel.bed) -- A bed file containing variants used to generate the hybrid capture probes for the orchid generated panel.
+2.  [notebooks/panel_generation.ipynb](notebooks/panel_generation.ipynb) -- A jupyter notebook to generate the orchid panel 
+3.  [notebooks/panel_evaluation.ipynb](notebooks/panel_evaluation.ipynb) -- A jupyter notebook to assess the orchid panel
+4.  [comparison_panels/](comparison_panels/) -- Contains comparison panel variant locations
+5.  [comparison_panels/supporting](comparison_panels/supporting) -- Contains panel reference materal and parsing scripts
