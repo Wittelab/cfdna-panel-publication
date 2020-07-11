@@ -1,0 +1,19 @@
+﻿Disease State,Patient ID,cfDNA Concentration (ng/mL),Age at Diagnosis,Race,Gleason Primary,Gleason Secondary,Gleason Total,PSA at Diagnosis,Tumor Stage,N Stage,M Stage,CAPRA Score,Used For
+Localized,P0014,3.13,64,CAUCASIAN,4,3,7,8.35,T2a,NX,M0,5,in silico
+Localized,P0022,0.98,64,CAUCASIAN,4,5,9,5.16,T1c,N0,M0,4,in silico
+Localized,P0023,7.4,57,CAUCASIAN,5,4,9,13.74,T2,N0,M0,7,in silico
+Localized,P0024,0.29,55,CAUCASIAN,4,5,9,13.6,T2a,N0,M0,7,in silico
+Localized,P0039,1.62,65,OTHER/UKN,4,3,7,6.7,T3b,NX,MX,,in silico
+Localized,S024,2.06,73,CAUCASIAN,4,5,9,5.09,T2a,NX,M0,5,deep coverage
+Localized,S026,1.32,69,ASIAN/PI,4,4,8,36.7,T2,N0,M0,9,deep coverage
+Localized,S028,6.19,64,CAUCASIAN,4,3,7,12.01,T2b,NX,M0,6,variant detection 
+Localized,S029,2.99,54,OTHER/UKN,4,3,7,17.2,T2c,NX,M0,7,variant detection 
+Localized,S030,3.81,59,CAUCASIAN,4,5,9,20.24,T1c,N0,M0,,variant detection 
+Localized,S038,2.71,68,ASIAN/PI,4,5,9,4.2,T1c,N0,M0,4,variant detection 
+Localized,S041,4.85,66,OTHER/UKN,4,4,8,12.86,T2,NX,M0,6,variant detection 
+Localized,S058,2.12,59,OTHER/UKN,3,3,6,2,T1c,N1,MX,,variant detection 
+Localized,S063,2.58,70,CAUCASIAN,4,5,9,8.6,T2,NX,M0,6,variant detection 
+Localized,S072,2.14,72,CAUCASIAN,3,4,7,3.8,T2a,NX,MX,3,deep coverage
+Localized,S076,1.53,67,CAUCASIAN,3,3,6,6,T2a,NX,MX,2,variant detection 
+Localized,S083,3.23,50,OTHER/UKN,3,3,6,6.61,T2b,N0,M0,3,variant detection 
+Localized,S099,3.09,64,CAUCASIAN,4,4,8,69.9,T2,N0,M0,8,deep coverage
