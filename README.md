@@ -3,13 +3,21 @@
 This repository contains supporting material referenced in the publication with the above title. The manuscript can be found both on bioarxiv and in an upcoming publication. 
 
 1. bioarxiv doi: [https://doi.org/10.1101/2020.04.30.069658](https://doi.org/10.1101/2020.04.30.069658)
-2. Upcoming publication -- _TBD_
+2. Upcoming publication: TBD
 
 
-Files: 
+Key Files: 
 
-1.  [comparison_panels/orchid_panel.bed](comparison_panels/orchid_panel.bed) -- A bed file containing variants used to generate the hybrid capture probes for the orchid generated panel.
-2.  [notebooks/panel_generation.ipynb](notebooks/panel_generation.ipynb) -- A jupyter notebook to generate the orchid panel 
-3.  [notebooks/panel_evaluation.ipynb](notebooks/panel_evaluation.ipynb) -- A jupyter notebook to assess the orchid panel
-4.  [comparison_panels/](comparison_panels/) -- Contains comparison panel variant locations
-5.  [comparison_panels/supporting](comparison_panels/supporting) -- Contains panel reference materal and parsing scripts
+1.  [comparison_panels/](comparison_panels/): Contains comparison panel variant locations
+
+1.  [comparison_panels/orchid_panel.bed](comparison_panels/orchid_panel.bed): A bed file containing variants used to generate the hybrid capture probes for the orchid generated panel.
+  
+1.  [comparison_panels/supporting](comparison_panels/supporting): Contains panel reference materal and parsing scripts
+  
+1.  [notebooks/panel_generation.ipynb](notebooks/panel_generation.ipynb): A jupyter notebook used to generate the orchid panel, includes __Figures 1A,1B,1C, and S1__
+  
+1.  [notebooks/panel_evaluation.ipynb](notebooks/panel_evaluation.ipynb): A jupyter notebook used to assess the orchid panel, includes __Figures 2A,2B,2C,2D, and S2__
+  
+1.  [notebooks/reanalysis.ipynb](notebooks/reanalysis.ipynb): A jupyter notebook used to assess orchid panel _in silico_ performance and to model one-vs-rest feature importance, includes __Figures 1D and 3__  
+  
+1.  [notebooks/panel_performance.ipynb](notebooks/panel_performance.ipynb): A jupyter notebook to assess the number of patient variants captured by the panel, includes __Figures 4A and 4B__
