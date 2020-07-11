@@ -6,7 +6,7 @@ This repository contains supporting material referenced in the publication with 
 2. Upcoming publication: TBD
 
 
-Key Files: 
+## Key Files 
 
 1.  [comparison_panels/](comparison_panels/)  
 Contains variant location compositions for the frequency, union-existing, and orchid panels.
@@ -30,7 +30,7 @@ A jupyter notebook used to assess orchid panel _in silico_ performance and to mo
 A jupyter notebook to assess the number of patient variants captured by the panel, includes __Figures 4A and 4B__
 
 
-Notes:
+## Notes
 
 Some folders referenced in the above notebooks are not present in this repository due to their large sizes. These are made available upon request and include:
 
