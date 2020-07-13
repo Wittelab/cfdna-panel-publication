@@ -32,13 +32,13 @@ A jupyter notebook to assess the number of patient variants captured by the pane
 
 ## Notes
 
-Some folders referenced in the above notebooks are not present in this repository due to their large sizes. These are made available upon request and include:
+Some folders referenced in the above notebooks are not present in this repository due to their large sizes and/or patient confidentiality.
 
 1.  __TN/__  
-Contains patient tumor-normal variants
+Contains confidential patient tumor-normal variants
 
 1.  __cfDNA/__  
-Contains patient cfDNA detected variants
+Contains confidential patient cfDNA detected variants
 
 1.  __SVMv4_Enrichment_20171107__  
-Contains the SVM model used to generate the orchid panel
+Contains the SVM model used to generate the orchid panel, available upon request
